@@ -1,0 +1,2309 @@
+{
+ "version": 2,
+ "sources": [
+  {
+   "src": "hm",
+   "name": "幻梦",
+   "total": 14633,
+   "shards": [
+    {
+     "cat": "SM",
+     "file": "shards/hm/SM.json",
+     "count": 6,
+     "sha256": "24360ae171a0398677a3161ef52c679be9cc10f8a867d8422d3abcad27701206",
+     "part": 1
+    },
+    {
+     "cat": "人妻",
+     "file": "shards/hm/人妻-1.json",
+     "count": 500,
+     "sha256": "6784659d4a019fe91a54ccf97cfb70e8dbae91b791a263d1b221a7c82849511f",
+     "part": 1
+    },
+    {
+     "cat": "人妻",
+     "file": "shards/hm/人妻-2.json",
+     "count": 186,
+     "sha256": "b077f0090a7f3b9dcf80b49b3b0eb0d5ac7048a6d44b0b146bd1be80815282ad",
+     "part": 2
+    },
+    {
+     "cat": "冒险",
+     "file": "shards/hm/冒险.json",
+     "count": 49,
+     "sha256": "d3184a915a0f3b9cec52b1fc1d13e3058da0409053d9085749a3de5ce8547280",
+     "part": 1
+    },
+    {
+     "cat": "剧情",
+     "file": "shards/hm/剧情.json",
+     "count": 18,
+     "sha256": "e4e3e854258edb6110e2ac2f70b1cde725b0d0c97b5bdece85c31b3128698d9e",
+     "part": 1
+    },
+    {
+     "cat": "原创",
+     "file": "shards/hm/原创.json",
+     "count": 14,
+     "sha256": "61138b53520bc83ff3ea526f03fd27af31265baaa2c5031f73a63f8e90004dee",
+     "part": 1
+    },
+    {
+     "cat": "反差",
+     "file": "shards/hm/反差.json",
+     "count": 36,
+     "sha256": "e8e08f942ade450a7c96e206cc438ba9403dbba9ff531bffd9c2d4eddf19480d",
+     "part": 1
+    },
+    {
+     "cat": "同学",
+     "file": "shards/hm/同学.json",
+     "count": 44,
+     "sha256": "de1eacad4e6f6d9c8adc1732a2b11be99a966ded01e9fe1530eee3fa2ff3eeac",
+     "part": 1
+    },
+    {
+     "cat": "堕落",
+     "file": "shards/hm/堕落.json",
+     "count": 19,
+     "sha256": "b59e310a701acafaf0a095b2d420d613852869e0943078f864143cc0943bc150",
+     "part": 1
+    },
+    {
+     "cat": "处女",
+     "file": "shards/hm/处女.json",
+     "count": 98,
+     "sha256": "f9c4d20f77b3222fb9fb6d00c3ad706f2d13b2470a3874db99c1f30fde7397c3",
+     "part": 1
+    },
+    {
+     "cat": "巨乳",
+     "file": "shards/hm/巨乳-1.json",
+     "count": 500,
+     "sha256": "1dc648424091973cda140800e0aaeaa5ad086a53fde5f5f4b8c963915f381fb6",
+     "part": 1
+    },
+    {
+     "cat": "巨乳",
+     "file": "shards/hm/巨乳-2.json",
+     "count": 224,
+     "sha256": "76ec3902e79cefcc033af118d926b0ed28dcb767e5f03ecfa11ebc1512cd66cb",
+     "part": 2
+    },
+    {
+     "cat": "支配",
+     "file": "shards/hm/支配.json",
+     "count": 24,
+     "sha256": "620e922547e4acab10d91b123114933c3c657fec1021cfd542be56858a648b07",
+     "part": 1
+    },
+    {
+     "cat": "攻略",
+     "file": "shards/hm/攻略.json",
+     "count": 7,
+     "sha256": "200d6bb842321a03291964a5b45d07f38a73971a1f0b9cead503dbb6e45bb9f1",
+     "part": 1
+    },
+    {
+     "cat": "校园",
+     "file": "shards/hm/校园-1.json",
+     "count": 500,
+     "sha256": "88815469f11083d03a0a01f8a6246c6cb75a30b6fb19ffa1c2149e74272bb59a",
+     "part": 1
+    },
+    {
+     "cat": "校园",
+     "file": "shards/hm/校园-2.json",
+     "count": 4,
+     "sha256": "9da29f396e87e0187fdf7efa7099929f83cc56ba74bf63a0618e306abd93333b",
+     "part": 2
+    },
+    {
+     "cat": "校花",
+     "file": "shards/hm/校花.json",
+     "count": 16,
+     "sha256": "928498e0ed61620dd9f4d1d733e690ca6598cb9e40d397c7b670b260023a3dff",
+     "part": 1
+    },
+    {
+     "cat": "治愈",
+     "file": "shards/hm/治愈.json",
+     "count": 54,
+     "sha256": "0fb9b42c6d207dc880fe40d141a4d3b1c2a5e48b57127e3419d34d74fecba5aa",
+     "part": 1
+    },
+    {
+     "cat": "淫乱",
+     "file": "shards/hm/淫乱.json",
+     "count": 22,
+     "sha256": "49a00e767997d93773f11ccc718d6639bb0cfe06d434ca7ad878f89e9257b49b",
+     "part": 1
+    },
+    {
+     "cat": "淫荡",
+     "file": "shards/hm/淫荡.json",
+     "count": 9,
+     "sha256": "5a7fd50eff4c470961ab676375f37fcd98fc64dbc1aa833688f9618861a4cfab",
+     "part": 1
+    },
+    {
+     "cat": "熟女",
+     "file": "shards/hm/熟女.json",
+     "count": 2,
+     "sha256": "3f0defe2b5f0182b8cb49c0452cc57b5a3cb35d1ccb82cfea2618293c916d399",
+     "part": 1
+    },
+    {
+     "cat": "状态栏",
+     "file": "shards/hm/状态栏.json",
+     "count": 31,
+     "sha256": "2a3a05228e2d697bf8f8901b7522002079bb57bae5b022dfda0326ebd9ae284c",
+     "part": 1
+    },
+    {
+     "cat": "男性向",
+     "file": "shards/hm/男性向-1.json",
+     "count": 500,
+     "sha256": "d514f6cd8a28db9d19ef5774b9c65faccd46a0c690599fa65b6ffbdc4b6c079a",
+     "part": 1
+    },
+    {
+     "cat": "男性向",
+     "file": "shards/hm/男性向-2.json",
+     "count": 500,
+     "sha256": "86f25d82935441daf77732ad1301a1a67e41378eee285471048fbdfa194b60d2",
+     "part": 2
+    },
+    {
+     "cat": "男性向",
+     "file": "shards/hm/男性向-3.json",
+     "count": 500,
+     "sha256": "66e4ea52f3aeed9599b54749703a7e33a4c21b499e47f8f9920ca0271bf2518a",
+     "part": 3
+    },
+    {
+     "cat": "男性向",
+     "file": "shards/hm/男性向-4.json",
+     "count": 500,
+     "sha256": "e48cb34c66e43a399bbab7f0b3c3c1fa7421a880163d10653c47be8a159f1501",
+     "part": 4
+    },
+    {
+     "cat": "男性向",
+     "file": "shards/hm/男性向-5.json",
+     "count": 500,
+     "sha256": "53683e477e846f53db8273985acd39b4b061d21634899a3b720c07d9af47b7b2",
+     "part": 5
+    },
+    {
+     "cat": "男性向",
+     "file": "shards/hm/男性向-6.json",
+     "count": 500,
+     "sha256": "2d08a43a70c2500c62876d7e20fa5149e3d86a67fe1c971618df7f651a3a86fe",
+     "part": 6
+    },
+    {
+     "cat": "男性向",
+     "file": "shards/hm/男性向-7.json",
+     "count": 500,
+     "sha256": "d0040ea4e387d981af033de92b15887a14de22f00fb244fd20ccf8323c453051",
+     "part": 7
+    },
+    {
+     "cat": "男性向",
+     "file": "shards/hm/男性向-8.json",
+     "count": 500,
+     "sha256": "66044b8058708fea55348c1d7f0030b25fc42923d58893d5e0b0acec39866c67",
+     "part": 8
+    },
+    {
+     "cat": "男性向",
+     "file": "shards/hm/男性向-9.json",
+     "count": 500,
+     "sha256": "7dc75475ba7bd4ad8a42ccc346313472f1c1ea27f413ac702a2ca9aaca42909b",
+     "part": 9
+    },
+    {
+     "cat": "男性向",
+     "file": "shards/hm/男性向-10.json",
+     "count": 500,
+     "sha256": "b66f1eca89e79109f54c8f50072e1d44e0d70fa30009a5da3f2d5a46856373b1",
+     "part": 10
+    },
+    {
+     "cat": "男性向",
+     "file": "shards/hm/男性向-11.json",
+     "count": 500,
+     "sha256": "7ae0567e84e28d152767cacc65a3935dcb8cf550319a37f1f368af247ff01501",
+     "part": 11
+    },
+    {
+     "cat": "男性向",
+     "file": "shards/hm/男性向-12.json",
+     "count": 500,
+     "sha256": "0bafc6d24bd06a255d7702fc957d1ee88fe762c81312f19484fa1d1d85483ad6",
+     "part": 12
+    },
+    {
+     "cat": "男性向",
+     "file": "shards/hm/男性向-13.json",
+     "count": 500,
+     "sha256": "2b6eb683c33bb9b6fae41acb743a93d2649c08aa5b7b30f13a88375f7e6ef180",
+     "part": 13
+    },
+    {
+     "cat": "男性向",
+     "file": "shards/hm/男性向-14.json",
+     "count": 500,
+     "sha256": "173ae258ee44015873bd0b59f4df28e451c01741066d897626b1d89df1871371",
+     "part": 14
+    },
+    {
+     "cat": "男性向",
+     "file": "shards/hm/男性向-15.json",
+     "count": 500,
+     "sha256": "6be006dd776c0a4026a6f804763d8072dcacc1658cc63637735ba02ed923e34b",
+     "part": 15
+    },
+    {
+     "cat": "男性向",
+     "file": "shards/hm/男性向-16.json",
+     "count": 500,
+     "sha256": "7bd5ece19a011ce2b237ebde3374793cfcc03cc10a7405e878fedd661324c2c4",
+     "part": 16
+    },
+    {
+     "cat": "男性向",
+     "file": "shards/hm/男性向-17.json",
+     "count": 500,
+     "sha256": "dcaf9b90e386c4408495ecf50fa7d9c4a8e4f4ab501ca8b876602bec36c96586",
+     "part": 17
+    },
+    {
+     "cat": "男性向",
+     "file": "shards/hm/男性向-18.json",
+     "count": 500,
+     "sha256": "dafa67ee9c0766edbc74124e57f05adceccfa3f05e2572ef2484b3f96c980b48",
+     "part": 18
+    },
+    {
+     "cat": "男性向",
+     "file": "shards/hm/男性向-19.json",
+     "count": 500,
+     "sha256": "e6321f7cff3fa357affef580e2fe905a2287d47a1287ad6663617457ea610dca",
+     "part": 19
+    },
+    {
+     "cat": "男性向",
+     "file": "shards/hm/男性向-20.json",
+     "count": 500,
+     "sha256": "ab035da0072c3ffc2072d554fe6ad6143f0ce84fa0e2f125b3b56a24b2db6a59",
+     "part": 20
+    },
+    {
+     "cat": "男性向",
+     "file": "shards/hm/男性向-21.json",
+     "count": 500,
+     "sha256": "d6b80c8c2444d021a8587ce993abd50c19372746eacac3e713f0a0560ff11eec",
+     "part": 21
+    },
+    {
+     "cat": "男性向",
+     "file": "shards/hm/男性向-22.json",
+     "count": 113,
+     "sha256": "9ed9673fc4d12dd42dcc12e7a4923746a1ab2e343fa607b7193a75c7e1df81a0",
+     "part": 22
+    },
+    {
+     "cat": "精选",
+     "file": "shards/hm/精选.json",
+     "count": 17,
+     "sha256": "70c0ca1790a9945a9aa10a8ef1befb5584cd86e329693bd6092075b34bc8fd3e",
+     "part": 1
+    },
+    {
+     "cat": "纯爱",
+     "file": "shards/hm/纯爱-1.json",
+     "count": 500,
+     "sha256": "2766381d5f5f8a02a94e58efb0ef2379741003ac02f14b31bb7a5ec9fefb3eef",
+     "part": 1
+    },
+    {
+     "cat": "纯爱",
+     "file": "shards/hm/纯爱-2.json",
+     "count": 500,
+     "sha256": "4937241c2abc0aee31a9774646c714e3fae90be83084591f7e8fd8fee7e048e9",
+     "part": 2
+    },
+    {
+     "cat": "纯爱",
+     "file": "shards/hm/纯爱-3.json",
+     "count": 500,
+     "sha256": "c1a996d0b21f7023b8e059a123e9e7b2503c77568d6760374a6191d1144258a3",
+     "part": 3
+    },
+    {
+     "cat": "纯爱",
+     "file": "shards/hm/纯爱-4.json",
+     "count": 40,
+     "sha256": "242272c257f9742b31660434188f48731bee63b6d3087be9dd137f571256da99",
+     "part": 4
+    },
+    {
+     "cat": "角色扮演",
+     "file": "shards/hm/角色扮演.json",
+     "count": 40,
+     "sha256": "4c0378c7c2bde4b9bf64917774ed91118636a8753bef46b261696037274d4a86",
+     "part": 1
+    },
+    {
+     "cat": "调教",
+     "file": "shards/hm/调教.json",
+     "count": 49,
+     "sha256": "c18fbb58982fb60932b520d4400ab4b8b9efaa5497d7738849f88aade66b84cb",
+     "part": 1
+    },
+    {
+     "cat": "顺从",
+     "file": "shards/hm/顺从.json",
+     "count": 11,
+     "sha256": "938e91fd79373d3e6df7ad6a94db6932a5e178245842b4cd3dee01c93c7ecf67",
+     "part": 1
+    }
+   ]
+  },
+  {
+   "src": "fy",
+   "name": "风月",
+   "total": 30467,
+   "shards": [
+    {
+     "cat": "NTR",
+     "file": "shards/fy/NTR.json",
+     "count": 312,
+     "sha256": "2dd41bdc235cdfeb034c5f200ba52c59d0d73719d948e912e8cb687c56816652",
+     "part": 1
+    },
+    {
+     "cat": "R18",
+     "file": "shards/fy/R18.json",
+     "count": 252,
+     "sha256": "ee4ba0eea7a4281ab6e4f1df8b507da57f2d3a75cbdc4fc32bdec3114d3de8fd",
+     "part": 1
+    },
+    {
+     "cat": "低消耗",
+     "file": "shards/fy/低消耗.json",
+     "count": 208,
+     "sha256": "6a50e7a4778b7a2fe560067d40bea4de2ebe5ea6bc25bcfae9f570c480086bff",
+     "part": 1
+    },
+    {
+     "cat": "单人卡",
+     "file": "shards/fy/单人卡-1.json",
+     "count": 500,
+     "sha256": "017bac4e293f3d6eea15ed3ce3b0d2d246a0ca77088313154cd7364d51016151",
+     "part": 1
+    },
+    {
+     "cat": "单人卡",
+     "file": "shards/fy/单人卡-2.json",
+     "count": 500,
+     "sha256": "01864c7eb8d7a38e3295b0fa0cb6b0b51eac7a27031db580a7b4ef86ddd2a72d",
+     "part": 2
+    },
+    {
+     "cat": "单人卡",
+     "file": "shards/fy/单人卡-3.json",
+     "count": 500,
+     "sha256": "7cf29f4ab4dce8dc12eab5469b1b80bee1b331925a1944c606259f72918450b3",
+     "part": 3
+    },
+    {
+     "cat": "单人卡",
+     "file": "shards/fy/单人卡-4.json",
+     "count": 500,
+     "sha256": "16ad9f27992411067adf5bc5a028d342c0b8bcc20cea7f7f044c637b4f629657",
+     "part": 4
+    },
+    {
+     "cat": "单人卡",
+     "file": "shards/fy/单人卡-5.json",
+     "count": 500,
+     "sha256": "2928e0c2fb1eb852eed218f9517f0edde0de689b73cf497355bdc65877aafc9e",
+     "part": 5
+    },
+    {
+     "cat": "单人卡",
+     "file": "shards/fy/单人卡-6.json",
+     "count": 500,
+     "sha256": "8ca006fda169b4feb9d036ec315a0d365083b70224639b9647d36c18515dae74",
+     "part": 6
+    },
+    {
+     "cat": "单人卡",
+     "file": "shards/fy/单人卡-7.json",
+     "count": 500,
+     "sha256": "b28d7eb95d23bf1dd2a29d326b79ae882416b758494a377852bfbf12553344c9",
+     "part": 7
+    },
+    {
+     "cat": "单人卡",
+     "file": "shards/fy/单人卡-8.json",
+     "count": 500,
+     "sha256": "ffb47e9b1d848e73cc9e9c378def17104c1082d0d73467b7f442be24b9ffae8b",
+     "part": 8
+    },
+    {
+     "cat": "单人卡",
+     "file": "shards/fy/单人卡-9.json",
+     "count": 212,
+     "sha256": "a63ea789534c97b4a64490d0556c9d0270a967f352bdd912c3ac6ef791bd59b7",
+     "part": 9
+    },
+    {
+     "cat": "反差",
+     "file": "shards/fy/反差.json",
+     "count": 122,
+     "sha256": "5785fde683532f9d7d2b69182be6872feadd3d49b92a90b3e57b358d3cfe3ba5",
+     "part": 1
+    },
+    {
+     "cat": "可剧情可涩涩",
+     "file": "shards/fy/可剧情可涩涩-1.json",
+     "count": 500,
+     "sha256": "84416d8328d79e62a67cc6830fa93a417af7f02de64ee50dabf7ebd79e424281",
+     "part": 1
+    },
+    {
+     "cat": "可剧情可涩涩",
+     "file": "shards/fy/可剧情可涩涩-2.json",
+     "count": 500,
+     "sha256": "202d5970d747b937bfdf516b99e2487d185d783194c01923fbf203266a391a17",
+     "part": 2
+    },
+    {
+     "cat": "可剧情可涩涩",
+     "file": "shards/fy/可剧情可涩涩-3.json",
+     "count": 90,
+     "sha256": "6450ddd790f3005466dfbd95c43052dc10d467073abb54f90e678bf79f177fdb",
+     "part": 3
+    },
+    {
+     "cat": "可快餐可长线",
+     "file": "shards/fy/可快餐可长线.json",
+     "count": 27,
+     "sha256": "837c246ed2a9a915785ccb5d6d56e6b0bd217ae05fb3ac9e5d60727a3235cdbd",
+     "part": 1
+    },
+    {
+     "cat": "后宫",
+     "file": "shards/fy/后宫.json",
+     "count": 215,
+     "sha256": "a143bb1956f788ee085bde4371abfb0f186b688c60058f51a5ed4b5c05424ddf",
+     "part": 1
+    },
+    {
+     "cat": "增强色情描写",
+     "file": "shards/fy/增强色情描写.json",
+     "count": 38,
+     "sha256": "29d15f68be81a0fde2fd1422fe06589e19c62f8b9cbffb953ef32d67448a13bc",
+     "part": 1
+    },
+    {
+     "cat": "多角色",
+     "file": "shards/fy/多角色.json",
+     "count": 157,
+     "sha256": "99890d1221cebd7d8ed395fa59baea8d31d804a8b76f996c8a8bad53f7d6b7ce",
+     "part": 1
+    },
+    {
+     "cat": "已破甲",
+     "file": "shards/fy/已破甲-1.json",
+     "count": 500,
+     "sha256": "2927d590e504e742fb0f27a214b0ca4a68f069e5541761d79d9b1704233d3c09",
+     "part": 1
+    },
+    {
+     "cat": "已破甲",
+     "file": "shards/fy/已破甲-2.json",
+     "count": 500,
+     "sha256": "31ecdbb076fc77062f2ed87ad81c6e7c7d1d46fdb2979deac2251c02b39a9c99",
+     "part": 2
+    },
+    {
+     "cat": "已破甲",
+     "file": "shards/fy/已破甲-3.json",
+     "count": 300,
+     "sha256": "72979a58580c80eb6c247502a5a4c56a2c978e37f56dd27bbb1633264c7c4e66",
+     "part": 3
+    },
+    {
+     "cat": "开局即可色",
+     "file": "shards/fy/开局即可色.json",
+     "count": 258,
+     "sha256": "f0d1a5facf20e1851f37f10f6afc210eb6f6d09b2cc46f723361e26eaf1940bf",
+     "part": 1
+    },
+    {
+     "cat": "开放世界",
+     "file": "shards/fy/开放世界-1.json",
+     "count": 500,
+     "sha256": "f18bd9a22f76370da634e480d5f8424f44a307ff1ce69bddfbd84b73f4e14806",
+     "part": 1
+    },
+    {
+     "cat": "开放世界",
+     "file": "shards/fy/开放世界-2.json",
+     "count": 500,
+     "sha256": "da0ccef8dfadfdb6a6155fbc607c8464c748b13ec9f5d9a233fef2e6cff630a0",
+     "part": 2
+    },
+    {
+     "cat": "开放世界",
+     "file": "shards/fy/开放世界-3.json",
+     "count": 500,
+     "sha256": "c13514d836dad9c52df6b46d1070b543ce1220e6f4db0a6f128f1f65630390b3",
+     "part": 3
+    },
+    {
+     "cat": "开放世界",
+     "file": "shards/fy/开放世界-4.json",
+     "count": 500,
+     "sha256": "2bdcb958d8f9ffa998bfa8454c6ad8b39a1eb0ca99190889f49d60021e5ba792",
+     "part": 4
+    },
+    {
+     "cat": "开放世界",
+     "file": "shards/fy/开放世界-5.json",
+     "count": 500,
+     "sha256": "553a72f1a4658b16e3f4618041ebda34e93458ffba27e726d4eb427c1802ce10",
+     "part": 5
+    },
+    {
+     "cat": "开放世界",
+     "file": "shards/fy/开放世界-6.json",
+     "count": 500,
+     "sha256": "c4aa3e0b9961986d6cf9da37cf39b5ff62c94d32cf8086d489860b0c079bd10a",
+     "part": 6
+    },
+    {
+     "cat": "开放世界",
+     "file": "shards/fy/开放世界-7.json",
+     "count": 500,
+     "sha256": "ca9d7a73c4e02ac5e209345d0721003a793a9da8a8673fd221aed07ae3085324",
+     "part": 7
+    },
+    {
+     "cat": "开放世界",
+     "file": "shards/fy/开放世界-8.json",
+     "count": 500,
+     "sha256": "bd33838cdad2b9ed7f5ee1f034d340431986fa6ca0a23840545d0953614a15cf",
+     "part": 8
+    },
+    {
+     "cat": "开放世界",
+     "file": "shards/fy/开放世界-9.json",
+     "count": 500,
+     "sha256": "4079ed3addc9333129a2dd2e8c68630adf238be38de0ae12718ba0cb3f890323",
+     "part": 9
+    },
+    {
+     "cat": "开放世界",
+     "file": "shards/fy/开放世界-10.json",
+     "count": 500,
+     "sha256": "9785a4cc022365361a65fc53577ef72e3219ff843b0ebc2fd5ccb1adfdcb4d36",
+     "part": 10
+    },
+    {
+     "cat": "开放世界",
+     "file": "shards/fy/开放世界-11.json",
+     "count": 500,
+     "sha256": "48d8f6b02fdd21f7d5e141c453e7a6e2967cd46672c2c750ba0fa61b1e807ac5",
+     "part": 11
+    },
+    {
+     "cat": "开放世界",
+     "file": "shards/fy/开放世界-12.json",
+     "count": 500,
+     "sha256": "10985f49d8bf23e16ec75811074c62510f7a5626a8ab0b1961c60fc7594b0d34",
+     "part": 12
+    },
+    {
+     "cat": "开放世界",
+     "file": "shards/fy/开放世界-13.json",
+     "count": 500,
+     "sha256": "97783a79acdad54cc54a71ca577a126ec266ca9e8a37f7e43cb4b6941895b52b",
+     "part": 13
+    },
+    {
+     "cat": "开放世界",
+     "file": "shards/fy/开放世界-14.json",
+     "count": 500,
+     "sha256": "572dbd656506b3c1b0e92c126ce4c2a25fcc311fda5be85b3de5adc75003a7e9",
+     "part": 14
+    },
+    {
+     "cat": "开放世界",
+     "file": "shards/fy/开放世界-15.json",
+     "count": 500,
+     "sha256": "549c623fcdcf60297805ab05aa74b0cb955cf07bb2c4ca47126217b58bf0f08b",
+     "part": 15
+    },
+    {
+     "cat": "开放世界",
+     "file": "shards/fy/开放世界-16.json",
+     "count": 74,
+     "sha256": "c68e756fb1ece6e0f42211d01be6bcd8ddddd12c23b9cb1f8cf150abc089774d",
+     "part": 16
+    },
+    {
+     "cat": "恶堕",
+     "file": "shards/fy/恶堕.json",
+     "count": 136,
+     "sha256": "1dbc7aac0f8d1fe6b275bce123e7e9d3f54384612b87a442303a559580afff26",
+     "part": 1
+    },
+    {
+     "cat": "校园",
+     "file": "shards/fy/校园.json",
+     "count": 64,
+     "sha256": "53df633a6c0894cdf8d4e9f43baac8bba54f5e7f6ba5d2231f49c5f29247fc4c",
+     "part": 1
+    },
+    {
+     "cat": "现代都市",
+     "file": "shards/fy/现代都市.json",
+     "count": 39,
+     "sha256": "2bc53e820bf2f0ed71f98bdb01a2f2cb1041b9da77a6a61531bf1944a8be1796",
+     "part": 1
+    },
+    {
+     "cat": "男性向",
+     "file": "shards/fy/男性向.json",
+     "count": 263,
+     "sha256": "9ba12351c561bbe8d8597597015872c4f098224c7b2ddce8f4a9524166585f3f",
+     "part": 1
+    },
+    {
+     "cat": "精选",
+     "file": "shards/fy/精选-1.json",
+     "count": 500,
+     "sha256": "00c8bdcb7fa5ee0569d218896d2d4f1363d48da7a3d5ed35f02f5e1ffce257e4",
+     "part": 1
+    },
+    {
+     "cat": "精选",
+     "file": "shards/fy/精选-2.json",
+     "count": 500,
+     "sha256": "792791f88b66223c37414896e09a346646a9294c5fa6a8e7ffd9288ac1e3b9b3",
+     "part": 2
+    },
+    {
+     "cat": "精选",
+     "file": "shards/fy/精选-3.json",
+     "count": 500,
+     "sha256": "fe6422bb96273604fd2634aae89e7390e6e27da407c2a6a80ac31b2017867f93",
+     "part": 3
+    },
+    {
+     "cat": "精选",
+     "file": "shards/fy/精选-4.json",
+     "count": 500,
+     "sha256": "b2956c20f38b51ad92ac34b601dd6b0576bb334ac51b413da1b4b23b1d5bac4b",
+     "part": 4
+    },
+    {
+     "cat": "精选",
+     "file": "shards/fy/精选-5.json",
+     "count": 500,
+     "sha256": "87e634a941773f9075d5b1277c1b4a5d01aee0233f328deb3673ec019d0b7384",
+     "part": 5
+    },
+    {
+     "cat": "精选",
+     "file": "shards/fy/精选-6.json",
+     "count": 500,
+     "sha256": "73bc14fa7076166d8f653081e9f3257a273ea84069ab3027ee972258994736ee",
+     "part": 6
+    },
+    {
+     "cat": "精选",
+     "file": "shards/fy/精选-7.json",
+     "count": 500,
+     "sha256": "4cc6729ac18089064a5909f71ffecae2ca391b10452bf26ec130902e3af1e7bb",
+     "part": 7
+    },
+    {
+     "cat": "精选",
+     "file": "shards/fy/精选-8.json",
+     "count": 306,
+     "sha256": "432a8b78cd217022781f05dc749e2a16fef1cae0898ac174c9ff362e409ce07d",
+     "part": 8
+    },
+    {
+     "cat": "纯爱",
+     "file": "shards/fy/纯爱-1.json",
+     "count": 500,
+     "sha256": "e82be2926eaed54183db081369edfc3863079e4e7413f4ce14325190326a2d27",
+     "part": 1
+    },
+    {
+     "cat": "纯爱",
+     "file": "shards/fy/纯爱-2.json",
+     "count": 500,
+     "sha256": "d135c18642b21c5b732a7c548ae24962f58e4f6cbc766f445502ada1e9c2a13c",
+     "part": 2
+    },
+    {
+     "cat": "纯爱",
+     "file": "shards/fy/纯爱-3.json",
+     "count": 500,
+     "sha256": "d5c121f1aac9653aba93b4df446ad9ab593150d12333295fa168e47ad9495859",
+     "part": 3
+    },
+    {
+     "cat": "纯爱",
+     "file": "shards/fy/纯爱-4.json",
+     "count": 429,
+     "sha256": "eeadc958adb39c78d5904799846017ce8e14363ee3254cd178e00c763af011fc",
+     "part": 4
+    },
+    {
+     "cat": "自定义",
+     "file": "shards/fy/自定义.json",
+     "count": 88,
+     "sha256": "13769276e91d0c5cb645953db6f8cc118caf0627c163db971233877c07725eda",
+     "part": 1
+    },
+    {
+     "cat": "自由探索",
+     "file": "shards/fy/自由探索.json",
+     "count": 97,
+     "sha256": "f5fad89081099b506ab7ff1adb48a34d4a5ea6c8ad0bc2a20e8ce0693ca9b856",
+     "part": 1
+    },
+    {
+     "cat": "角色扮演",
+     "file": "shards/fy/角色扮演.json",
+     "count": 110,
+     "sha256": "e7fc4484a536d3a016717db384b448fa2336f5780a7ff517d6cb1097e6bb5d35",
+     "part": 1
+    },
+    {
+     "cat": "调教",
+     "file": "shards/fy/调教-1.json",
+     "count": 500,
+     "sha256": "ac72b2d8ca32227d9297ddecefbaf1936dd6eb4722e1b72a85774ee16ac7642f",
+     "part": 1
+    },
+    {
+     "cat": "调教",
+     "file": "shards/fy/调教-2.json",
+     "count": 500,
+     "sha256": "9137d2e2c0198527fc8d9440a05d9a2219c25a4ce6fc2a9007bad6cc87a35622",
+     "part": 2
+    },
+    {
+     "cat": "调教",
+     "file": "shards/fy/调教-3.json",
+     "count": 500,
+     "sha256": "543b82f5801b713629b904705ef7c13e1e78a4151fd390722cd05b82a80ada40",
+     "part": 3
+    },
+    {
+     "cat": "调教",
+     "file": "shards/fy/调教-4.json",
+     "count": 500,
+     "sha256": "d49a437c42884072e41b3c7a039550f91be57d1788f7a58b50e695009fc42701",
+     "part": 4
+    },
+    {
+     "cat": "调教",
+     "file": "shards/fy/调教-5.json",
+     "count": 500,
+     "sha256": "70fa20fef178d2c4735f18d58bfb5dc6e99911112fbe2ba0bd82934518c84bd9",
+     "part": 5
+    },
+    {
+     "cat": "调教",
+     "file": "shards/fy/调教-6.json",
+     "count": 500,
+     "sha256": "8fd7ba0c905bb05632499b7a0dddfc5e94d3bf61b3ed92bc0b6993a3707e519a",
+     "part": 6
+    },
+    {
+     "cat": "调教",
+     "file": "shards/fy/调教-7.json",
+     "count": 500,
+     "sha256": "af06002d338738734bcc43f1d3e32af2f6324367c24bfdab5223e8ff324305e7",
+     "part": 7
+    },
+    {
+     "cat": "调教",
+     "file": "shards/fy/调教-8.json",
+     "count": 500,
+     "sha256": "19ee13175068246da3b067ea933df581ed938d2ccd4554c8c70cbcd7b3cf4adb",
+     "part": 8
+    },
+    {
+     "cat": "调教",
+     "file": "shards/fy/调教-9.json",
+     "count": 500,
+     "sha256": "c54733e946aa67b183b464d606806c897ec93e8a897892dc04455b626746ffbc",
+     "part": 9
+    },
+    {
+     "cat": "调教",
+     "file": "shards/fy/调教-10.json",
+     "count": 500,
+     "sha256": "a580fe4317972a326cca84c9dc138dffca78d8dd43b1d4b78ae65dc3e8f44aa7",
+     "part": 10
+    },
+    {
+     "cat": "调教",
+     "file": "shards/fy/调教-11.json",
+     "count": 500,
+     "sha256": "59dc82489996b415ad599cba23a9e627818193d60086f11400b39449f846e0ad",
+     "part": 11
+    },
+    {
+     "cat": "调教",
+     "file": "shards/fy/调教-12.json",
+     "count": 500,
+     "sha256": "7ec2cb33b57de5075643f5ebca4e0244ea7c09b23137d1c7d7f320d1d64ff59d",
+     "part": 12
+    },
+    {
+     "cat": "调教",
+     "file": "shards/fy/调教-13.json",
+     "count": 500,
+     "sha256": "b7c210b2d16269df563f0605c90fe160be157fe849cbb3934b76dce5b7815344",
+     "part": 13
+    },
+    {
+     "cat": "调教",
+     "file": "shards/fy/调教-14.json",
+     "count": 500,
+     "sha256": "ac9c3fc847ae9ab13f729bb1bf922d23e11b1ab2a05f35f11fc0044ddce7fc43",
+     "part": 14
+    },
+    {
+     "cat": "调教",
+     "file": "shards/fy/调教-15.json",
+     "count": 500,
+     "sha256": "dc0506bdc0b3f267c9fc81a70e5ac302f514238e677ca840296259ad81bf8dbf",
+     "part": 15
+    },
+    {
+     "cat": "调教",
+     "file": "shards/fy/调教-16.json",
+     "count": 368,
+     "sha256": "743aa22f182bfc53921c5455887adb7d715d99be6e65d56989284d059be35e45",
+     "part": 16
+    },
+    {
+     "cat": "重口",
+     "file": "shards/fy/重口.json",
+     "count": 113,
+     "sha256": "616201a193cf64026b306ec3f3c3ea79604bff8764b8fae00a8ad9ce073b1984",
+     "part": 1
+    },
+    {
+     "cat": "高自由度",
+     "file": "shards/fy/高自由度.json",
+     "count": 189,
+     "sha256": "f88cc3beb0c6e3c0c47803604d8f59a3b3816af8ad8aa1f51946fe2ba58b3fc0",
+     "part": 1
+    }
+   ]
+  },
+  {
+   "src": "xc",
+   "name": "香草",
+   "total": 1401,
+   "shards": [
+    {
+     "cat": "NTR",
+     "file": "shards/xc/NTR.json",
+     "count": 30,
+     "sha256": "f34330b5fb90613ef68137edfff887aa6550269d9d9c85e479d2d958c97e892d",
+     "part": 1
+    },
+    {
+     "cat": "ntr",
+     "file": "shards/xc/ntr.json",
+     "count": 5,
+     "sha256": "7a63d1695ab7933d54c6b5128d2484e075827b924a64af03178b478cd79de41f",
+     "part": 1
+    },
+    {
+     "cat": "丝袜",
+     "file": "shards/xc/丝袜.json",
+     "count": 19,
+     "sha256": "82a503d74754b1e63a20a0e810d9545a4e354884b63cdfe088fc481fa8981872",
+     "part": 1
+    },
+    {
+     "cat": "人妻",
+     "file": "shards/xc/人妻.json",
+     "count": 38,
+     "sha256": "5f8da6527b4023ecb5ad63aedb1db418c536c513c72ed4ed9b56a985238ed6d8",
+     "part": 1
+    },
+    {
+     "cat": "傲娇",
+     "file": "shards/xc/傲娇.json",
+     "count": 10,
+     "sha256": "66815b6387e6bfada618119df40793081897b9e6420131d771ad0b65f8219617",
+     "part": 1
+    },
+    {
+     "cat": "占有欲",
+     "file": "shards/xc/占有欲.json",
+     "count": 12,
+     "sha256": "a09f54c8eb265ade4c732cdb8023ab2b8331e8f210252f181b27765c3a234386",
+     "part": 1
+    },
+    {
+     "cat": "双路线",
+     "file": "shards/xc/双路线.json",
+     "count": 18,
+     "sha256": "3eac5d3df08dce5e5b041975ee36388ddc2869355e79882000a99fe31dc61584",
+     "part": 1
+    },
+    {
+     "cat": "反差",
+     "file": "shards/xc/反差.json",
+     "count": 67,
+     "sha256": "ab707a10086b107529ab3354935c339e8d01d4155f5f6b63a4f6ae38eba43cc0",
+     "part": 1
+    },
+    {
+     "cat": "反派支配",
+     "file": "shards/xc/反派支配.json",
+     "count": 5,
+     "sha256": "b98cc413a938ba9089ffb08d7cd6191d840e3e7de467ce39d6b765839b420260",
+     "part": 1
+    },
+    {
+     "cat": "后宫",
+     "file": "shards/xc/后宫.json",
+     "count": 7,
+     "sha256": "31193bb56461ef719911f87b1c4f297c348f7af594f6ff7e86e9fa511cfc880e",
+     "part": 1
+    },
+    {
+     "cat": "处女",
+     "file": "shards/xc/处女.json",
+     "count": 13,
+     "sha256": "adffded45e9432ae69a94c9922b079fb741ab80a2665cfc6988e5eebce57adfc",
+     "part": 1
+    },
+    {
+     "cat": "巨乳",
+     "file": "shards/xc/巨乳.json",
+     "count": 19,
+     "sha256": "921f6968d1ca38c5c9da86b2e1722315525a02bf46d26904f0a00c2bf9315519",
+     "part": 1
+    },
+    {
+     "cat": "御姐",
+     "file": "shards/xc/御姐.json",
+     "count": 14,
+     "sha256": "d9e816549a9aa76d25ee1ee91ff3436946912b170ef6342417070f65197421af",
+     "part": 1
+    },
+    {
+     "cat": "慢热",
+     "file": "shards/xc/慢热.json",
+     "count": 13,
+     "sha256": "9fb3f22d0467dbf7bdfeeed83ac73b5d0063c6da6ab8a5b0726d35eda17c3b34",
+     "part": 1
+    },
+    {
+     "cat": "校园",
+     "file": "shards/xc/校园.json",
+     "count": 39,
+     "sha256": "e19145fdf79eac827748a4b3e0d01c03035470a4a757e90fc7ae9900bb47f957",
+     "part": 1
+    },
+    {
+     "cat": "校花",
+     "file": "shards/xc/校花.json",
+     "count": 21,
+     "sha256": "7fbaff7470c9ee598f4081e3d191692f74d281e9ea536bdc963f3c9ddbb571ac",
+     "part": 1
+    },
+    {
+     "cat": "熟女",
+     "file": "shards/xc/熟女.json",
+     "count": 10,
+     "sha256": "12af1b92cbbdfad319223554de5a535254a53aacffa5944a2e9220b819dea44c",
+     "part": 1
+    },
+    {
+     "cat": "禁忌",
+     "file": "shards/xc/禁忌.json",
+     "count": 11,
+     "sha256": "6da625610980804f1a7c965bd6616d3c265a3c4b0ea3c59315c3f28ce8e822db",
+     "part": 1
+    },
+    {
+     "cat": "秘密",
+     "file": "shards/xc/秘密.json",
+     "count": 10,
+     "sha256": "4a77d45a0233e693e3b7de432217a6aa8425f9a4e078427f338c62f111fba0f9",
+     "part": 1
+    },
+    {
+     "cat": "精选",
+     "file": "shards/xc/精选-1.json",
+     "count": 500,
+     "sha256": "0cc3276a43833024b438f032a3cf438dffcaf41b45230fb7459b46332008c79a",
+     "part": 1
+    },
+    {
+     "cat": "精选",
+     "file": "shards/xc/精选-2.json",
+     "count": 430,
+     "sha256": "aa53cc27577fe21ab5a1f3fd8575fa6f5ccbe2c840d385d40e57e47d86277fd8",
+     "part": 2
+    },
+    {
+     "cat": "纯爱",
+     "file": "shards/xc/纯爱.json",
+     "count": 30,
+     "sha256": "7898873731e38cecd3c4e36064667d172b89f264a35fad47a4d1f42f6bfc4381",
+     "part": 1
+    },
+    {
+     "cat": "绿帽",
+     "file": "shards/xc/绿帽.json",
+     "count": 10,
+     "sha256": "d5adcf715c0913b3fda91df35a7fae3a3f1a0d4bb2365c07dfa48d16a3eb92b8",
+     "part": 1
+    },
+    {
+     "cat": "调教",
+     "file": "shards/xc/调教.json",
+     "count": 43,
+     "sha256": "138b5b94d25c3a266805dba8bf398fc50b77b1cffca2c200fa830205ea9f5391",
+     "part": 1
+    },
+    {
+     "cat": "青梅竹马",
+     "file": "shards/xc/青梅竹马.json",
+     "count": 16,
+     "sha256": "92bab0f8523ea4a1e97203cd3dcfb2a6c283ae0dcd28c3f0fa100e577288655c",
+     "part": 1
+    },
+    {
+     "cat": "高冷",
+     "file": "shards/xc/高冷.json",
+     "count": 11,
+     "sha256": "2d52e9e920c4232c19bcadce3062d80c25840fc1a5365360d4ee928929b4207c",
+     "part": 1
+    }
+   ]
+  },
+  {
+   "src": "dz",
+   "name": "dzmm",
+   "total": 42095,
+   "shards": [
+    {
+     "cat": "NTL",
+     "file": "shards/dz/NTL-1.json",
+     "count": 500,
+     "sha256": "56f2a33d752301df8cef8f270a4017b519303baad2cc9ddc4fa2459919e58dd5",
+     "part": 1
+    },
+    {
+     "cat": "NTL",
+     "file": "shards/dz/NTL-2.json",
+     "count": 245,
+     "sha256": "fba2f25a457aec3c7bb808cec1ae99465f39c86afeda6c296aa3d7708dc6473a",
+     "part": 2
+    },
+    {
+     "cat": "NTR",
+     "file": "shards/dz/NTR-1.json",
+     "count": 500,
+     "sha256": "2c2753e0667153caeb9563015e6990df50daeb538ac9ab17ee0427e66aedf549",
+     "part": 1
+    },
+    {
+     "cat": "NTR",
+     "file": "shards/dz/NTR-2.json",
+     "count": 94,
+     "sha256": "f243bc5fddd1be67f4ec5b4d56ded9e1783d27adf30a5cab18d3984eee7bf0ff",
+     "part": 2
+    },
+    {
+     "cat": "ntl",
+     "file": "shards/dz/ntl.json",
+     "count": 464,
+     "sha256": "f79e0c20c689cd0f4602209f8f4de535de465865c2c69235f7d4442cbde44a54",
+     "part": 1
+    },
+    {
+     "cat": "ntr",
+     "file": "shards/dz/ntr.json",
+     "count": 449,
+     "sha256": "5ef169dd7384d41572a2d8ed816714f82d2510e8ce66934470196704d59ed4b5",
+     "part": 1
+    },
+    {
+     "cat": "人妻",
+     "file": "shards/dz/人妻-1.json",
+     "count": 500,
+     "sha256": "054fa6430499788d71a722f3644a090a8857ef34a11062de31c324df1d1a486b",
+     "part": 1
+    },
+    {
+     "cat": "人妻",
+     "file": "shards/dz/人妻-2.json",
+     "count": 223,
+     "sha256": "89ce2952187a4bd68bf385b2584f112e54d9a8a5abec88d2956204606a879cf6",
+     "part": 2
+    },
+    {
+     "cat": "修仙",
+     "file": "shards/dz/修仙-1.json",
+     "count": 500,
+     "sha256": "5ae5dc9cf1f478ea3736eb4eed3a5ad9b0e394f39b0eb4145d4f6048ed56ac48",
+     "part": 1
+    },
+    {
+     "cat": "修仙",
+     "file": "shards/dz/修仙-2.json",
+     "count": 278,
+     "sha256": "64c2035d901571805630a97f7b7d749898ae1ec8d1060a715c8c5f04ebfa292c",
+     "part": 2
+    },
+    {
+     "cat": "傲娇",
+     "file": "shards/dz/傲娇.json",
+     "count": 413,
+     "sha256": "89ff0ece1aae9bbdabe5cac41b8a374f994eee37aba0b1438d3944034aab734f",
+     "part": 1
+    },
+    {
+     "cat": "反差",
+     "file": "shards/dz/反差-1.json",
+     "count": 500,
+     "sha256": "a95394dde9459997bff42c36b08365c6ddee2895df625f3d14322b0a52dbb4e1",
+     "part": 1
+    },
+    {
+     "cat": "反差",
+     "file": "shards/dz/反差-2.json",
+     "count": 482,
+     "sha256": "670772a75f56e7da092015abe58f2d473e93ae1838333069352ddf5cfd15819e",
+     "part": 2
+    },
+    {
+     "cat": "古风",
+     "file": "shards/dz/古风-1.json",
+     "count": 500,
+     "sha256": "69be8f2509347032028c1bb856ef9af50a9cd426e94aee72c7f6c9d522a67651",
+     "part": 1
+    },
+    {
+     "cat": "古风",
+     "file": "shards/dz/古风-2.json",
+     "count": 500,
+     "sha256": "35f6c875f0b2d5a915fafb1aa1d7120500422a63e383c7421704d3b168030bf4",
+     "part": 2
+    },
+    {
+     "cat": "古风",
+     "file": "shards/dz/古风-3.json",
+     "count": 36,
+     "sha256": "b67e743026cccc5b55474cafd7600ef26dcd5e24850fc0a8c9d9f60729aa3749",
+     "part": 3
+    },
+    {
+     "cat": "同人",
+     "file": "shards/dz/同人-1.json",
+     "count": 500,
+     "sha256": "a51df6515d2029ee7ca20bc491f265daa50c16262846df1cabd43cad11f0172a",
+     "part": 1
+    },
+    {
+     "cat": "同人",
+     "file": "shards/dz/同人-2.json",
+     "count": 500,
+     "sha256": "13222d65f17d4ceea00f8158e05ae763f0c2b70368bc2c8c21fe2b5c6e25c60c",
+     "part": 2
+    },
+    {
+     "cat": "同人",
+     "file": "shards/dz/同人-3.json",
+     "count": 500,
+     "sha256": "59dbefa35358fed87c9d4aa8332fed03cd53e25ccf5ec56af7280c0b7a87cde8",
+     "part": 3
+    },
+    {
+     "cat": "同人",
+     "file": "shards/dz/同人-4.json",
+     "count": 327,
+     "sha256": "358b548aa965bf6e7dbe138b16345e788573f39356ec86921fa628410db4fbf5",
+     "part": 4
+    },
+    {
+     "cat": "后宫",
+     "file": "shards/dz/后宫.json",
+     "count": 456,
+     "sha256": "d267f8766e3151eb512aa848e4ad4e24bc1297b6fcb73dd67c9e3d65eb88a23b",
+     "part": 1
+    },
+    {
+     "cat": "处女",
+     "file": "shards/dz/处女.json",
+     "count": 331,
+     "sha256": "ec4b65db1addc7ded0f9aef7ce60c34ff5a625a87dedaf0ab8800f9d2b881067",
+     "part": 1
+    },
+    {
+     "cat": "巨乳",
+     "file": "shards/dz/巨乳-1.json",
+     "count": 500,
+     "sha256": "58797b692d495fa5d9425a912eb7e9aa080335ce8a138a354861f74a377f8635",
+     "part": 1
+    },
+    {
+     "cat": "巨乳",
+     "file": "shards/dz/巨乳-2.json",
+     "count": 500,
+     "sha256": "981bcecd3a96613f575c563d54116dd243de7bfcc1acbf13412cdd55376556cb",
+     "part": 2
+    },
+    {
+     "cat": "巨乳",
+     "file": "shards/dz/巨乳-3.json",
+     "count": 200,
+     "sha256": "174f2d098c189e896d0562e0f804f1919201ccf5c521d2f20f99b493c47db056",
+     "part": 3
+    },
+    {
+     "cat": "御姐",
+     "file": "shards/dz/御姐-1.json",
+     "count": 500,
+     "sha256": "b550a65f81d394c911579e870819283396360bd67df2634106c3066788d432f6",
+     "part": 1
+    },
+    {
+     "cat": "御姐",
+     "file": "shards/dz/御姐-2.json",
+     "count": 137,
+     "sha256": "6c226b6072f23791326915fdd89e2ff4df4e81d1d8feeec6911954d34e39a081",
+     "part": 2
+    },
+    {
+     "cat": "救赎",
+     "file": "shards/dz/救赎.json",
+     "count": 298,
+     "sha256": "99775006c5f7acabfd8b4508d7f07c941e0d1cb131d636baf23e9be4a71faba2",
+     "part": 1
+    },
+    {
+     "cat": "日常",
+     "file": "shards/dz/日常.json",
+     "count": 304,
+     "sha256": "2e903ea497b747fe1364367c8f7c106072127724e67f4b7a68d897aa2ee08e26",
+     "part": 1
+    },
+    {
+     "cat": "校园",
+     "file": "shards/dz/校园-1.json",
+     "count": 500,
+     "sha256": "d19d7d273378f959406880a6256a6d84a1c0be0b76096a252be2c386b9233cf8",
+     "part": 1
+    },
+    {
+     "cat": "校园",
+     "file": "shards/dz/校园-2.json",
+     "count": 60,
+     "sha256": "cfce8e09a47a8723ab1e617e3b53f4a27f72e5c6e5f5003a141f4a528c580c7b",
+     "part": 2
+    },
+    {
+     "cat": "油腻",
+     "file": "shards/dz/油腻.json",
+     "count": 368,
+     "sha256": "bc3bc9513bdb33afceb734bec623898cb2da9b9f85f933ed47333fe2d0c1cd39",
+     "part": 1
+    },
+    {
+     "cat": "熟女",
+     "file": "shards/dz/熟女-1.json",
+     "count": 500,
+     "sha256": "69575b363ec2f1634e6df08b136851ae105de27975233a9a526fbe8794eb59b1",
+     "part": 1
+    },
+    {
+     "cat": "熟女",
+     "file": "shards/dz/熟女-2.json",
+     "count": 468,
+     "sha256": "97274652452bf3df43e1a45dde26e4832ab355e0362823194d716b86420abb34",
+     "part": 2
+    },
+    {
+     "cat": "现代",
+     "file": "shards/dz/现代-1.json",
+     "count": 500,
+     "sha256": "a6cfed1cd71f87cde42e0019783971e92765db958dc0a2d9f42999f3db459854",
+     "part": 1
+    },
+    {
+     "cat": "现代",
+     "file": "shards/dz/现代-2.json",
+     "count": 1,
+     "sha256": "ff12e6377018ebcd86335bd7e8c594545e8e675f8f1a423e77745fb7f9a8cb6e",
+     "part": 2
+    },
+    {
+     "cat": "精选",
+     "file": "shards/dz/精选-1.json",
+     "count": 500,
+     "sha256": "d2509b0182df428dd9c153ab7a9fc303bb783c15950b8638bcf8c22e37739f74",
+     "part": 1
+    },
+    {
+     "cat": "精选",
+     "file": "shards/dz/精选-2.json",
+     "count": 500,
+     "sha256": "1d230d5dcda908bd63221650221b28bf4a8551cc39f057c9802fbf382012f501",
+     "part": 2
+    },
+    {
+     "cat": "精选",
+     "file": "shards/dz/精选-3.json",
+     "count": 500,
+     "sha256": "904791923f048040237703236838a782bdcb6b43c2120be97aa2e28671a03f62",
+     "part": 3
+    },
+    {
+     "cat": "精选",
+     "file": "shards/dz/精选-4.json",
+     "count": 500,
+     "sha256": "20cc9ba0afa6d2dbad19241adfcef44486ef9cc4e5e1b7a7253c2e8636b7b834",
+     "part": 4
+    },
+    {
+     "cat": "精选",
+     "file": "shards/dz/精选-5.json",
+     "count": 500,
+     "sha256": "ccf1c77e36611b34663c2803a31e8e3af9481c2c20b7d9a27b5257ff0ca6e10f",
+     "part": 5
+    },
+    {
+     "cat": "精选",
+     "file": "shards/dz/精选-6.json",
+     "count": 500,
+     "sha256": "5d5ddd21ecc1b8db5f32f361024ebf05ec955543ccdda2d04e40406b0abcc51c",
+     "part": 6
+    },
+    {
+     "cat": "精选",
+     "file": "shards/dz/精选-7.json",
+     "count": 500,
+     "sha256": "4b7669d89b20f8b07f05f82a50ae4f038e569c0da325c5a87e7e5d031074ad6c",
+     "part": 7
+    },
+    {
+     "cat": "精选",
+     "file": "shards/dz/精选-8.json",
+     "count": 500,
+     "sha256": "4a0ccfa410fa30850388242f24b112e55aeee156329ddaa0179363c0fb99cc7d",
+     "part": 8
+    },
+    {
+     "cat": "精选",
+     "file": "shards/dz/精选-9.json",
+     "count": 500,
+     "sha256": "c803815946e0b613de5fb2ccfea800a908e900c9c0376e86b9beb58e72343f0e",
+     "part": 9
+    },
+    {
+     "cat": "精选",
+     "file": "shards/dz/精选-10.json",
+     "count": 500,
+     "sha256": "df3be680ac667739917b5df4215847df5f3b4ce1242411cf4439792f2ee0c3fd",
+     "part": 10
+    },
+    {
+     "cat": "精选",
+     "file": "shards/dz/精选-11.json",
+     "count": 500,
+     "sha256": "844577fd6efe259117441df5047b72ad41990c7736b38c64f813f31434b25ebc",
+     "part": 11
+    },
+    {
+     "cat": "精选",
+     "file": "shards/dz/精选-12.json",
+     "count": 500,
+     "sha256": "0be8e3a70fedbac944fa277dae72a44f3db119c4d43078b17cedc1fe3bf137f5",
+     "part": 12
+    },
+    {
+     "cat": "精选",
+     "file": "shards/dz/精选-13.json",
+     "count": 500,
+     "sha256": "fa04c03b04efbc5c0ba902c0833596e3fa2358e918c7553886f6398432181578",
+     "part": 13
+    },
+    {
+     "cat": "精选",
+     "file": "shards/dz/精选-14.json",
+     "count": 500,
+     "sha256": "6e96a0c4610fdfc331e765bb3b70004efdae5a7e457912d3a49878452363bf38",
+     "part": 14
+    },
+    {
+     "cat": "精选",
+     "file": "shards/dz/精选-15.json",
+     "count": 500,
+     "sha256": "390458faf594a6e257efe12f1f7e0231e8ea37f0bdc9b5e312c9cace43a56a84",
+     "part": 15
+    },
+    {
+     "cat": "精选",
+     "file": "shards/dz/精选-16.json",
+     "count": 500,
+     "sha256": "5873764048b127c57a816af5d2ae1163ba74e5d1fdb0ff58571b68b72c00d4ee",
+     "part": 16
+    },
+    {
+     "cat": "精选",
+     "file": "shards/dz/精选-17.json",
+     "count": 500,
+     "sha256": "015d2044ed76e2beb72edda040b2795b1edd84d0ea6fb3cc4f0b6f023419990d",
+     "part": 17
+    },
+    {
+     "cat": "精选",
+     "file": "shards/dz/精选-18.json",
+     "count": 500,
+     "sha256": "d96d888f5d25d0f0464b236c33ff4c4250b6d69e50ba5ff2c1dee02d016cc9ea",
+     "part": 18
+    },
+    {
+     "cat": "精选",
+     "file": "shards/dz/精选-19.json",
+     "count": 500,
+     "sha256": "7d9134953d8385090777b5ce0bf9682e8c3de8d07632c30066be8955e532d460",
+     "part": 19
+    },
+    {
+     "cat": "精选",
+     "file": "shards/dz/精选-20.json",
+     "count": 500,
+     "sha256": "1feaac377a5f408934b902929fd2117661d89a0cf926d92541840805500b480c",
+     "part": 20
+    },
+    {
+     "cat": "精选",
+     "file": "shards/dz/精选-21.json",
+     "count": 500,
+     "sha256": "aaae78362a5c7a68647f36e7ee27958c8e1e53de115c719198614aefaa7d892f",
+     "part": 21
+    },
+    {
+     "cat": "精选",
+     "file": "shards/dz/精选-22.json",
+     "count": 500,
+     "sha256": "db21e19347869719cb7b8e427f06daf3544fbe9116c21a5fadb2175215ed428b",
+     "part": 22
+    },
+    {
+     "cat": "精选",
+     "file": "shards/dz/精选-23.json",
+     "count": 500,
+     "sha256": "7b5c626561904be8457b48daf5a9a2f78f45e6d122aa4b0b9610da54a3a37c04",
+     "part": 23
+    },
+    {
+     "cat": "精选",
+     "file": "shards/dz/精选-24.json",
+     "count": 500,
+     "sha256": "9284b94c5dfee17e98b71a0d220f1b476cc45314d16f7730fcdd0d24483bb7c4",
+     "part": 24
+    },
+    {
+     "cat": "精选",
+     "file": "shards/dz/精选-25.json",
+     "count": 500,
+     "sha256": "ca06822de6d525d503e9ac1713094777c84b2661c4aa00361bca2be3e270706e",
+     "part": 25
+    },
+    {
+     "cat": "精选",
+     "file": "shards/dz/精选-26.json",
+     "count": 500,
+     "sha256": "e23cb4d0636598732144f0c27b388a436a46b268066c103cbb13bef47330d15b",
+     "part": 26
+    },
+    {
+     "cat": "精选",
+     "file": "shards/dz/精选-27.json",
+     "count": 500,
+     "sha256": "cc3631816cbd84db17dcd4b8a60ae992da64a3fb77295fa3068a793303dfe54c",
+     "part": 27
+    },
+    {
+     "cat": "精选",
+     "file": "shards/dz/精选-28.json",
+     "count": 500,
+     "sha256": "f6a9eee1dce694a5996d6b1dcd5625e36e3ae5a425a64193e4c478e1b04a9a27",
+     "part": 28
+    },
+    {
+     "cat": "精选",
+     "file": "shards/dz/精选-29.json",
+     "count": 500,
+     "sha256": "26c40f1b259f1c2dcf103b2f1f511e92c8e5b23202eb5efc2a683bb95f5ca688",
+     "part": 29
+    },
+    {
+     "cat": "精选",
+     "file": "shards/dz/精选-30.json",
+     "count": 500,
+     "sha256": "57400ef17cfecb0b1ad6f5ff4ff7ed0f94d1e010544a82260b6f5ff5f322b9a2",
+     "part": 30
+    },
+    {
+     "cat": "精选",
+     "file": "shards/dz/精选-31.json",
+     "count": 500,
+     "sha256": "306ce2c0b7174093901466ada38309eefd4c86d976a1bdcfb058793bcc3ba739",
+     "part": 31
+    },
+    {
+     "cat": "精选",
+     "file": "shards/dz/精选-32.json",
+     "count": 500,
+     "sha256": "3fe7a506a72c568ae071c7c65255fab61b1208bed898c7a13073177625e89e91",
+     "part": 32
+    },
+    {
+     "cat": "精选",
+     "file": "shards/dz/精选-33.json",
+     "count": 500,
+     "sha256": "0e7b9fa5c06f42b5241b258500fe3a5a3c6113f7a910b1ed5c29129849ad8061",
+     "part": 33
+    },
+    {
+     "cat": "精选",
+     "file": "shards/dz/精选-34.json",
+     "count": 500,
+     "sha256": "ba54afe4fce3ca934a0011e19aeb5a66ec0ccde9188735988b91ac92d06de069",
+     "part": 34
+    },
+    {
+     "cat": "精选",
+     "file": "shards/dz/精选-35.json",
+     "count": 500,
+     "sha256": "facff1bd4baade40f9d4f6fe083f5c3c34b2563f0a04593272d5ee8f267f7e6f",
+     "part": 35
+    },
+    {
+     "cat": "精选",
+     "file": "shards/dz/精选-36.json",
+     "count": 500,
+     "sha256": "9b37c68f26ba13c6b1e9134f33bc3327b986bc8314bf0ac8b9597e26df3d2d51",
+     "part": 36
+    },
+    {
+     "cat": "精选",
+     "file": "shards/dz/精选-37.json",
+     "count": 500,
+     "sha256": "89d95228fc26c8cd35b99c390cad92721fa3164000348f5ff4cb431026877b7a",
+     "part": 37
+    },
+    {
+     "cat": "精选",
+     "file": "shards/dz/精选-38.json",
+     "count": 500,
+     "sha256": "75ddf594acf4ae96408527f87ac1fa161d60547fb7228771b76b33112e71ff0e",
+     "part": 38
+    },
+    {
+     "cat": "精选",
+     "file": "shards/dz/精选-39.json",
+     "count": 500,
+     "sha256": "17c508165e30ce2da248a8cf2aa4ee26603d8dab523b84a9bbb391d92b32cf1f",
+     "part": 39
+    },
+    {
+     "cat": "精选",
+     "file": "shards/dz/精选-40.json",
+     "count": 500,
+     "sha256": "d2ff72377c580428e21d0baa8fb15b009c499763d903c8df7eff4c59eb77bdc4",
+     "part": 40
+    },
+    {
+     "cat": "精选",
+     "file": "shards/dz/精选-41.json",
+     "count": 500,
+     "sha256": "43bbec88ec5f29fe672c0781e82f3af26134025b841f7546f4387a309d34ff6b",
+     "part": 41
+    },
+    {
+     "cat": "精选",
+     "file": "shards/dz/精选-42.json",
+     "count": 500,
+     "sha256": "3127dc097a060f622131ba55c04144d577a1daee501f99ab8259dd3c45e622cd",
+     "part": 42
+    },
+    {
+     "cat": "精选",
+     "file": "shards/dz/精选-43.json",
+     "count": 249,
+     "sha256": "c83aedb4147700f2e13a355484c39d3efba60897df7663c48d5e98b4e5f81c51",
+     "part": 43
+    },
+    {
+     "cat": "纯爱",
+     "file": "shards/dz/纯爱-1.json",
+     "count": 500,
+     "sha256": "ed4aeefe8615e63b9f5f312df4bf1533771fe2af44a6392a9054f380d8eb553a",
+     "part": 1
+    },
+    {
+     "cat": "纯爱",
+     "file": "shards/dz/纯爱-2.json",
+     "count": 500,
+     "sha256": "4ac58623488c314256dbd31b92bb1f9657b1de41e8043be34707e5a03eb35477",
+     "part": 2
+    },
+    {
+     "cat": "纯爱",
+     "file": "shards/dz/纯爱-3.json",
+     "count": 500,
+     "sha256": "1a52d2d5eca36071779d55000aea6d3e7ecdd3fe0515a4781f1f602547900d7d",
+     "part": 3
+    },
+    {
+     "cat": "纯爱",
+     "file": "shards/dz/纯爱-4.json",
+     "count": 500,
+     "sha256": "0b57e84ade7c0c3e24cba658cc9956cf376165c2499f898aa5b54fcd15b626e7",
+     "part": 4
+    },
+    {
+     "cat": "纯爱",
+     "file": "shards/dz/纯爱-5.json",
+     "count": 500,
+     "sha256": "79bd3c6a395c75375cba32ea88376f92551f10db7523d6f5366c9aeb59c1a78c",
+     "part": 5
+    },
+    {
+     "cat": "纯爱",
+     "file": "shards/dz/纯爱-6.json",
+     "count": 500,
+     "sha256": "1af488c008b0ffefc9726241dc5efd795265bac85f1ca0ab40e2765692552ca7",
+     "part": 6
+    },
+    {
+     "cat": "纯爱",
+     "file": "shards/dz/纯爱-7.json",
+     "count": 500,
+     "sha256": "1ba2890143698edd70005b769a9aaf59ba76a1794354a2c77b39ff45dddd4657",
+     "part": 7
+    },
+    {
+     "cat": "纯爱",
+     "file": "shards/dz/纯爱-8.json",
+     "count": 500,
+     "sha256": "5145ffa0d701db66a7cc21442a1ca5ace2404195938c71c3c95696fd28cfe62a",
+     "part": 8
+    },
+    {
+     "cat": "纯爱",
+     "file": "shards/dz/纯爱-9.json",
+     "count": 500,
+     "sha256": "b7594547f6c27d572bf601703daf95b69fe9d65537418eb6b15640a829ef11d3",
+     "part": 9
+    },
+    {
+     "cat": "纯爱",
+     "file": "shards/dz/纯爱-10.json",
+     "count": 81,
+     "sha256": "1e3fd03218bf9f6e4d3bab36c983a971257c2e18fa26cb7d9211641121d9bb06",
+     "part": 10
+    },
+    {
+     "cat": "调教",
+     "file": "shards/dz/调教-1.json",
+     "count": 500,
+     "sha256": "fc3ec03d33c00817d270e75862a6fc0089705816be75d311235e463476fd0bac",
+     "part": 1
+    },
+    {
+     "cat": "调教",
+     "file": "shards/dz/调教-2.json",
+     "count": 500,
+     "sha256": "85d9b62c0566a4382a664d61d2a608b8b376b1dc7722face4104c570e7a8822e",
+     "part": 2
+    },
+    {
+     "cat": "调教",
+     "file": "shards/dz/调教-3.json",
+     "count": 500,
+     "sha256": "7034d444ee16207fe10785ec4098baded65c23b1f10b5bd0b174cc6481e636cc",
+     "part": 3
+    },
+    {
+     "cat": "调教",
+     "file": "shards/dz/调教-4.json",
+     "count": 355,
+     "sha256": "60e48ad992341b5dc74d57ed8f629d6e9097a9ea73410809d86d6b85b40b244b",
+     "part": 4
+    },
+    {
+     "cat": "都市",
+     "file": "shards/dz/都市.json",
+     "count": 356,
+     "sha256": "a63c3d6a667e68db033eaafc57e7fbfb0e134b1208b75e02a00c1b776aa5df47",
+     "part": 1
+    },
+    {
+     "cat": "青梅竹马",
+     "file": "shards/dz/青梅竹马.json",
+     "count": 420,
+     "sha256": "70119e4cd73770891742c2362102954a222e70f3da5b33fff4a54ddec718e606",
+     "part": 1
+    }
+   ]
+  },
+  {
+   "src": "yy",
+   "name": "夜语",
+   "total": 6090,
+   "shards": [
+    {
+     "cat": " 纯爱",
+     "file": "shards/yy/纯爱.json",
+     "count": 26,
+     "sha256": "3b94e2b6d9bc496c9e4ad8911e5d2f444f0146972971fe2be722808d734826ef",
+     "part": 1
+    },
+    {
+     "cat": "NTR",
+     "file": "shards/yy/NTR.json",
+     "count": 18,
+     "sha256": "efffbda1c679793a631f1a919f2174748c6f777eae4591e01856d189494a9c8f",
+     "part": 1
+    },
+    {
+     "cat": "低消耗",
+     "file": "shards/yy/低消耗-1.json",
+     "count": 500,
+     "sha256": "6e48f2d079ba2a1f181077b5315c52d38f66a381421206ad9e6b142615a5bb03",
+     "part": 1
+    },
+    {
+     "cat": "低消耗",
+     "file": "shards/yy/低消耗-2.json",
+     "count": 326,
+     "sha256": "7ebd0ab3c4d420671715953a4b3dc0655b5af92c94630e25a3446dd7b66bc7c0",
+     "part": 2
+    },
+    {
+     "cat": "低消耗 ",
+     "file": "shards/yy/低消耗.json",
+     "count": 4,
+     "sha256": "160bf89f5966b45ed0310e70a4487a416e0c1af69461305a34975bdacff8da68",
+     "part": 1
+    },
+    {
+     "cat": "修仙",
+     "file": "shards/yy/修仙.json",
+     "count": 6,
+     "sha256": "beb51ebb1abf110895f7f742798c4c8e9298455ac14da06495d8bf23c3f0d39c",
+     "part": 1
+    },
+    {
+     "cat": "养成",
+     "file": "shards/yy/养成.json",
+     "count": 1,
+     "sha256": "937cfe9ec7ba970bbdf31390f6af8be1e4c80f4b292390ebb839ac19fee8a82b",
+     "part": 1
+    },
+    {
+     "cat": "兽娘",
+     "file": "shards/yy/兽娘.json",
+     "count": 2,
+     "sha256": "b9bb648406c5085553913e7fb589d8fce590cb6e1e411e7e5dbd1b5381e0042e",
+     "part": 1
+    },
+    {
+     "cat": "剧情向",
+     "file": "shards/yy/剧情向.json",
+     "count": 17,
+     "sha256": "f4f8bb8ac0fcfe85600e4a9d4761e41e19ea7e5df184bcfc318b6c335c243dd6",
+     "part": 1
+    },
+    {
+     "cat": "加强色情描写",
+     "file": "shards/yy/加强色情描写.json",
+     "count": 7,
+     "sha256": "8f634808142f737e935fa61a086625b0fd8616e6a203afe2d629dc3d6bb22023",
+     "part": 1
+    },
+    {
+     "cat": "动漫",
+     "file": "shards/yy/动漫.json",
+     "count": 45,
+     "sha256": "2d5aa39952e63fce6cb734714057dcb5dd3d6208d71c1d8b502129fdcc8256f8",
+     "part": 1
+    },
+    {
+     "cat": "单人卡",
+     "file": "shards/yy/单人卡.json",
+     "count": 16,
+     "sha256": "34f1f63669ce5c0b266c86841031601015827a575e61649c57847768cbf3459e",
+     "part": 1
+    },
+    {
+     "cat": "反差",
+     "file": "shards/yy/反差.json",
+     "count": 83,
+     "sha256": "6fd7f499892887a02d71fa793ed6e91eb2c443cd44c59dcaa7c0787f5679de12",
+     "part": 1
+    },
+    {
+     "cat": "古风",
+     "file": "shards/yy/古风.json",
+     "count": 2,
+     "sha256": "7cc97140636b3c026d616401e7dcb3300f952b03cbddff62ff8332e6e403df7d",
+     "part": 1
+    },
+    {
+     "cat": "可ntr可纯爱",
+     "file": "shards/yy/可ntr可纯爱.json",
+     "count": 7,
+     "sha256": "7f1775fb69d7da33a91eabd367c1ca1580f6e1e1a07da2a7dfd2bf7e7640f523",
+     "part": 1
+    },
+    {
+     "cat": "可剧情可涩涩",
+     "file": "shards/yy/可剧情可涩涩.json",
+     "count": 60,
+     "sha256": "3e260976b5e1f82008188c9026b39bca49d1311b7f7a36bf494f09e4bd7eff51",
+     "part": 1
+    },
+    {
+     "cat": "可后宫可纯爱",
+     "file": "shards/yy/可后宫可纯爱.json",
+     "count": 3,
+     "sha256": "df8242c423d9a6610746a923748127504cf6ebf1e6c44af82d0e941c5438746b",
+     "part": 1
+    },
+    {
+     "cat": "可快餐可长线",
+     "file": "shards/yy/可快餐可长线.json",
+     "count": 2,
+     "sha256": "037ba964eae55c38a6048db38e1f0c257f48640372412e433fefe32dac8a0501",
+     "part": 1
+    },
+    {
+     "cat": "可涩涩",
+     "file": "shards/yy/可涩涩.json",
+     "count": 4,
+     "sha256": "ee0e8f53c03ac84ce28c2a024736c304bcb5215114cb920dfa64bb2a7c76bfdc",
+     "part": 1
+    },
+    {
+     "cat": "可调教",
+     "file": "shards/yy/可调教.json",
+     "count": 28,
+     "sha256": "cf77d5c83529e476558d877b20389ccf63da7da04ca01f3910963d4d2c8920ff",
+     "part": 1
+    },
+    {
+     "cat": "可重口可轻口",
+     "file": "shards/yy/可重口可轻口.json",
+     "count": 24,
+     "sha256": "78b3ad87a4d7ae97152e9709f05a5adeeee519a87cf2cfa10102fb209d973023",
+     "part": 1
+    },
+    {
+     "cat": "各种玩法",
+     "file": "shards/yy/各种玩法.json",
+     "count": 4,
+     "sha256": "345803ded03a2ac2beb6f0ead6c56e61582d96bde8a0320166272914ff9ca824",
+     "part": 1
+    },
+    {
+     "cat": "后宫",
+     "file": "shards/yy/后宫.json",
+     "count": 68,
+     "sha256": "b2f4e17d0bdd5ef2abafd20434ad61548c3ee18383f2f9a1bee752c8e4f2b90c",
+     "part": 1
+    },
+    {
+     "cat": "多个攻略对象",
+     "file": "shards/yy/多个攻略对象.json",
+     "count": 4,
+     "sha256": "57b1f45a70833082890c6bc0125e9ac2ad6c964a2ac3c7e2946c2ed45f357d2d",
+     "part": 1
+    },
+    {
+     "cat": "多角色",
+     "file": "shards/yy/多角色.json",
+     "count": 153,
+     "sha256": "831854191b8afe457e7f5b1d8c2daeea04b73451931917cca4c1d9e6e9907c7b",
+     "part": 1
+    },
+    {
+     "cat": "妹妹",
+     "file": "shards/yy/妹妹.json",
+     "count": 2,
+     "sha256": "7afff61c06b7866a1f7b2ce00eb9272d07dd0322f376b5a560356d580dfb35f8",
+     "part": 1
+    },
+    {
+     "cat": "工具",
+     "file": "shards/yy/工具.json",
+     "count": 21,
+     "sha256": "3df3df2379772ad3549294b196ff5833ee7520e061fd7ecc2fe951e30ebb7591",
+     "part": 1
+    },
+    {
+     "cat": "巨乳",
+     "file": "shards/yy/巨乳.json",
+     "count": 63,
+     "sha256": "c7b313219a141ce5fcc5b9c28efbcde922df357e4b4e5bc05a8d16f2cc82b335",
+     "part": 1
+    },
+    {
+     "cat": "已破甲",
+     "file": "shards/yy/已破甲.json",
+     "count": 23,
+     "sha256": "5cd6a9cc5ea2e0c3d6849ef328d9bd63c973cdda673229b77714e39887f325d7",
+     "part": 1
+    },
+    {
+     "cat": "平平触摸银河",
+     "file": "shards/yy/平平触摸银河.json",
+     "count": 1,
+     "sha256": "b5ae347001e1467c3f595f1a818acfb907c9e7af51ff45aa0aee61051f7406ce",
+     "part": 1
+    },
+    {
+     "cat": "开局即可色",
+     "file": "shards/yy/开局即可色.json",
+     "count": 33,
+     "sha256": "c1d2fd9ba4511311fe98a75a0241e01c3e3e5f925ed6bba66187b80df4a6032c",
+     "part": 1
+    },
+    {
+     "cat": "开放世界",
+     "file": "shards/yy/开放世界.json",
+     "count": 225,
+     "sha256": "19ee5963a026f7f713a586feb37e80c031f544d68b54ad8fa56a15651b70487f",
+     "part": 1
+    },
+    {
+     "cat": "开放大世界",
+     "file": "shards/yy/开放大世界.json",
+     "count": 8,
+     "sha256": "8baa2cf0164eaeed907907f0013ee5c9a9ec73e5701029fd67dc0622e651aba6",
+     "part": 1
+    },
+    {
+     "cat": "异世界",
+     "file": "shards/yy/异世界.json",
+     "count": 2,
+     "sha256": "7e498ea346fb1a893fc9b310a04a456f1eb9523a1c0367d689759bed38acd860",
+     "part": 1
+    },
+    {
+     "cat": "异能",
+     "file": "shards/yy/异能.json",
+     "count": 2,
+     "sha256": "6c5a21cc539fbfb12312b49dc66725397535499b185ddd0e52c015c636aef5c5",
+     "part": 1
+    },
+    {
+     "cat": "性转",
+     "file": "shards/yy/性转.json",
+     "count": 1,
+     "sha256": "b452f1bdfacab09c2232c7b67ce8c353e94dee1661d89104cc1ffcce03d89b2c",
+     "part": 1
+    },
+    {
+     "cat": "恶堕",
+     "file": "shards/yy/恶堕.json",
+     "count": 18,
+     "sha256": "7f4bdbe523a8801d0fe38a70a4ce0f293c78d7a12b1d713e9e5f03ef0fbda69f",
+     "part": 1
+    },
+    {
+     "cat": "情趣店",
+     "file": "shards/yy/情趣店.json",
+     "count": 2,
+     "sha256": "9a0151957708434159de5217b4efcba1dec352640a7865169ba50d565c3e152a",
+     "part": 1
+    },
+    {
+     "cat": "战斗",
+     "file": "shards/yy/战斗.json",
+     "count": 2,
+     "sha256": "dc6ebe0dc52ab4de1e05dab5f03099f4a7ebbaddb8d2edc7ae45875e08fa08fe",
+     "part": 1
+    },
+    {
+     "cat": "救赎",
+     "file": "shards/yy/救赎.json",
+     "count": 1,
+     "sha256": "fba60621b07a47ab88e4e77796f2579c54a27d84329ac04919d68e02bb53e9f6",
+     "part": 1
+    },
+    {
+     "cat": "权力",
+     "file": "shards/yy/权力.json",
+     "count": 10,
+     "sha256": "dcdd38889424cf10314033be2ee818315172adb3b9e3d1eac555db9aac291765",
+     "part": 1
+    },
+    {
+     "cat": "极致色情描写",
+     "file": "shards/yy/极致色情描写.json",
+     "count": 1,
+     "sha256": "46dd9d2e9bc24b912d8f541cf16612e4c61188077f52a4cd6bfb8d166fcc51ab",
+     "part": 1
+    },
+    {
+     "cat": "校园",
+     "file": "shards/yy/校园.json",
+     "count": 383,
+     "sha256": "35229f50fb3e07e5c2341dfb2ff1600ce676429155626db8d836ae6d336a1b0c",
+     "part": 1
+    },
+    {
+     "cat": "模拟经营",
+     "file": "shards/yy/模拟经营.json",
+     "count": 1,
+     "sha256": "370951c881fd9bba654f00e999afafde143aa6110ab68e8bfd2249d09f449ef4",
+     "part": 1
+    },
+    {
+     "cat": "现代都市",
+     "file": "shards/yy/现代都市.json",
+     "count": 207,
+     "sha256": "07629faadb1646220e7efabede2854d278bed6cb28f908a9a506c539184dc80a",
+     "part": 1
+    },
+    {
+     "cat": "留学",
+     "file": "shards/yy/留学.json",
+     "count": 2,
+     "sha256": "f3364e851296de2dcb57283f716555b2766fd189c2f888b7e6d5a86b6c66bdc2",
+     "part": 1
+    },
+    {
+     "cat": "病娇",
+     "file": "shards/yy/病娇.json",
+     "count": 1,
+     "sha256": "68dbaa94fff7c48baad6a701cd70ca39581cdbd76ca2c02deb0db3936511fd9a",
+     "part": 1
+    },
+    {
+     "cat": "精选",
+     "file": "shards/yy/精选-1.json",
+     "count": 500,
+     "sha256": "13bceb1403b80c1f3956de3c554a486c0bfb88c4e78190a67bbe9f9c4dcea434",
+     "part": 1
+    },
+    {
+     "cat": "精选",
+     "file": "shards/yy/精选-2.json",
+     "count": 500,
+     "sha256": "6921efa3e1d5a46930d179ea8975b535f1d2527569e526ecd1fa59b730b4500a",
+     "part": 2
+    },
+    {
+     "cat": "精选",
+     "file": "shards/yy/精选-3.json",
+     "count": 500,
+     "sha256": "133b41d18867fe67b7acb704bfc8792b53a4061c157ca1030f2f80ab7bef6a40",
+     "part": 3
+    },
+    {
+     "cat": "精选",
+     "file": "shards/yy/精选-4.json",
+     "count": 500,
+     "sha256": "7015e33fd148934f9618250ef6dd9be44b2153dbb11511f966f78531cef8d7d1",
+     "part": 4
+    },
+    {
+     "cat": "精选",
+     "file": "shards/yy/精选-5.json",
+     "count": 500,
+     "sha256": "52ffb14023ce4fc09bd507913bf5e01ccdef65ac9d62da9a11e632c750dd038b",
+     "part": 5
+    },
+    {
+     "cat": "精选",
+     "file": "shards/yy/精选-6.json",
+     "count": 500,
+     "sha256": "eb0bc5e82e31d64c602cef19d65f66953e6ea6f0beacf4eaabb188769aeef53a",
+     "part": 6
+    },
+    {
+     "cat": "精选",
+     "file": "shards/yy/精选-7.json",
+     "count": 181,
+     "sha256": "7632e37b1fb3b352569eb2f5baff30bc942acd9e279bfd49f267f24bc612f077",
+     "part": 7
+    },
+    {
+     "cat": "系统",
+     "file": "shards/yy/系统.json",
+     "count": 1,
+     "sha256": "6995a359e724594d9fff065acce116345294a5b935a05dac391b934c1303597d",
+     "part": 1
+    },
+    {
+     "cat": "细致描写",
+     "file": "shards/yy/细致描写.json",
+     "count": 1,
+     "sha256": "d5e665edf85c96f382b11f02ded964b7ae2b11451039ce37ffe42b494a5d1c02",
+     "part": 1
+    },
+    {
+     "cat": "绿帽",
+     "file": "shards/yy/绿帽.json",
+     "count": 2,
+     "sha256": "816843ccbcffe073b2cd9048cb4d232e221db5239168f1654621966c53f1f6d5",
+     "part": 1
+    },
+    {
+     "cat": "群像",
+     "file": "shards/yy/群像.json",
+     "count": 1,
+     "sha256": "9d143c76fef4657d7c9e507656586ac04a749bf9b96c2a4639e90dcf11d6feb1",
+     "part": 1
+    },
+    {
+     "cat": "自定义",
+     "file": "shards/yy/自定义.json",
+     "count": 40,
+     "sha256": "fb90c01567f2c4d05116f15660aea2eda0b287f66c3a0cd20a55d844ee73b2fc",
+     "part": 1
+    },
+    {
+     "cat": "自定义开局",
+     "file": "shards/yy/自定义开局.json",
+     "count": 2,
+     "sha256": "7bad67087b72fc9cf2c8eb8835b18c631a36fc3a27edc9856325a71820bbe6cb",
+     "part": 1
+    },
+    {
+     "cat": "自定义角色",
+     "file": "shards/yy/自定义角色.json",
+     "count": 4,
+     "sha256": "6d1618537d91af30a203bdaa40084a07e2e7f76434810fe5996f37392f39e11f",
+     "part": 1
+    },
+    {
+     "cat": "自由探索",
+     "file": "shards/yy/自由探索.json",
+     "count": 48,
+     "sha256": "bbe5129d1358accfcc4894bb485cd7d77827c6870d50311ad95e5c71b9cd48f5",
+     "part": 1
+    },
+    {
+     "cat": "被调教",
+     "file": "shards/yy/被调教.json",
+     "count": 3,
+     "sha256": "5d852909b9177bda33c5ff8342f1c56632f74128f3fa5d69a2ee3fbc5bed581e",
+     "part": 1
+    },
+    {
+     "cat": "西幻",
+     "file": "shards/yy/西幻.json",
+     "count": 1,
+     "sha256": "3c36e4d68cea0ad615b908f65dbce6ef03b8010beb8463cc1d40cc30c6dd0ae4",
+     "part": 1
+    },
+    {
+     "cat": "误入",
+     "file": "shards/yy/误入.json",
+     "count": 6,
+     "sha256": "721a580640500ce10e0fefa09787a1bc28b652ad1163e5a36a62f49c1bd3f601",
+     "part": 1
+    },
+    {
+     "cat": "调教",
+     "file": "shards/yy/调教.json",
+     "count": 319,
+     "sha256": "2fe85ab8fb5b0e9a4bc2b0843aff5646584b56d4d8299c6215282ec6be204e36",
+     "part": 1
+    },
+    {
+     "cat": "超高自由度",
+     "file": "shards/yy/超高自由度.json",
+     "count": 51,
+     "sha256": "d70ad49d89135aae045f884ef775fac2c12df0ac74a315010ccdef6c55c1ce00",
+     "part": 1
+    },
+    {
+     "cat": "足控",
+     "file": "shards/yy/足控.json",
+     "count": 1,
+     "sha256": "66044701ff0226c619b095f7d10573568619118259d722661dfebb0a2e2daa87",
+     "part": 1
+    },
+    {
+     "cat": "近未来",
+     "file": "shards/yy/近未来.json",
+     "count": 2,
+     "sha256": "d5bdb2ace1c79c464d87f7393c3d2f658c0ab168c11d6cadb90bca5fa4e53c3d",
+     "part": 1
+    },
+    {
+     "cat": "适配grok3",
+     "file": "shards/yy/适配grok3.json",
+     "count": 1,
+     "sha256": "93d2b735af09d87f87015848c8755f9c50fc38b723583bb9081c70cf580d4f8d",
+     "part": 1
+    },
+    {
+     "cat": "重口",
+     "file": "shards/yy/重口.json",
+     "count": 1,
+     "sha256": "8f45cecd401364eac0cc0d71dc0e455db40b80d02204f2fb1c3207dcc17d5b8a",
+     "part": 1
+    },
+    {
+     "cat": "重口/性虐/调教",
+     "file": "shards/yy/重口_性虐_调教.json",
+     "count": 1,
+     "sha256": "e136dfaac00208d8a08ff65429144a4782739bcfd4b909dc67471b13ef323a13",
+     "part": 1
+    },
+    {
+     "cat": "首尔",
+     "file": "shards/yy/首尔.json",
+     "count": 2,
+     "sha256": "65a314c6b47fc0df9ed9307e899f7f16c23946f1d054dbb02910a3888dbf3d5e",
+     "part": 1
+    },
+    {
+     "cat": "高难度攻略",
+     "file": "shards/yy/高难度攻略.json",
+     "count": 3,
+     "sha256": "7c3866e96065c8d639937786840cce66c545f2b9bea2b7894a6a605467129045",
+     "part": 1
+    }
+   ]
+  }
+ ],
+ "total": 94686
+}
